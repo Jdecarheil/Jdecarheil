@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jordan, an ethusiastic and passionate coder currently working for Cognizant Australia. My experience primarily is accross enterprise engineering working for clients such as Bendigo Bank, Amazon and ANZ. 
+I am Jordan, an ethusiastic and passionate coder currently working for Cognizant Australia. My experience primarily is in enterprise engineering working for clients such as Bendigo Bank, Amazon and ANZ. 
 I am a full stack developer having worked accross various stacks depending on clients requirements, my experience to date would be a 70/30 split for front-end/back-end work.
 
 - 🔭 I’m currently working on two personal project applications you can view in my public repositories.
